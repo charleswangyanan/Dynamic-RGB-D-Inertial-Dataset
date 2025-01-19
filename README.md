@@ -1,7 +1,7 @@
 
-# MSSD-SLAM-Dataset
+# Dynamic RGB-D Inertial SLAM-Dataset
 
-This repository provides the MSSD-SLAM dataset, which includes dynamic scenes captured using the RealSense D455 camera. The dataset is designed to support the evaluation and development of SLAM algorithms in dynamic environments.
+This repository provides our self-collected dataset, which includes dynamic scenes captured using the RealSense D455 camera. The dataset is designed to support the evaluation and development of SLAM algorithms in dynamic environments.
 
 ## Dataset Description
 
